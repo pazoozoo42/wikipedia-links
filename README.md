@@ -1043,3 +1043,4 @@
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/U-1206">https://ru.wikipedia.org/wiki/U-1206</a><br>обычно к одиннадцати туз, но тут очко погубило</div>
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D1%8C_(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)">https://ru.wikipedia.org/wiki/Голубь_(проект)</a></div>
 | <div class="c_body">Динозавр Кецалькоатль<br><a target="_blank" href="https://en.m.wikipedia.org/wiki/Quetzalcoatlus">https://en.m.wikipedia.org/wiki/Quetzalcoatlus</a></div>
+| <div class="c_body">vkl–vikl, а это что? <a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%82%D1%86%D0%B0%D0%BB%D1%8C%D0%BA%D0%BE%D0%B0%D1%82%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D1%80)">https://ru.wikipedia.org/wiki/Кетцалькоатль_(птерозавр)</a></div>
