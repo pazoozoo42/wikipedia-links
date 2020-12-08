@@ -1067,3 +1067,4 @@
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B5%D1%81%D1%82%D0%B5%D0%B7%D0%B8%D1%8F">Синестезия</a>. Нейрологический феномен, при котором раздражение в одной сенсорной или когнитивной системе ведёт к автоматическому, непроизвольному отклику в другой сенсорной системе.</div>
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%BE,_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84%D0%BE">https://ru.wikipedia.org/wiki/Констанцо,_Адольфо</a></div>
 | <div class="c_body"><a target="_blank" href="https://en.wikipedia.org/wiki/Margaret_Howe_Lovatt">https://en.wikipedia.org/wiki/Margaret_Howe_Lovatt</a></div>
+| <div class="c_body">думал было, но не было<br><br><a target="_blank" href="https://ru.wikipedia.org/wiki/Xerox_PARC">https://ru.wikipedia.org/wiki/Xerox_PARC</a></div>
