@@ -1086,3 +1086,4 @@
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/HitchBOT">https://ru.wikipedia.org/wiki/HitchBOT</a><br>робот, год путешествовавший по германии и нидерландам, не продержался в штатах и двух недель.</div>
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3">https://ru.wikipedia.org/wiki/4′33″</a>  бояны из музыки</div>
 | <div class="c_body"><a target="_blank" href="https://en.wikipedia.org/wiki/Gadsby_(novel)">https://en.wikipedia.org/wiki/Gadsby_(novel)</a> как написать рассказик не используя буквы е. курьёз наверно даже в том, что четыре буквы е в тексте всё же есть. сам рассказик хуевастенький.</div>  
+| <div class="c_body">Было?<br><a target="_blank" href="https://ru.m.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%BE%D0%BA">проект Монток</a></div>
