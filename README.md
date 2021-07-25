@@ -1170,3 +1170,4 @@
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE_%D0%94%D1%83%D0%B1%D0%BD%D1%8B">Шар около Дубны</a></div>
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0">Новая столица Египта</a></div>
 | <div class="c_body">ultratim, тут больше подробностей&nbsp;— <a target="_blank" href="https://birdinflight.com/ru/architectura/20210705-egypt-new-capital.html">Как и зачем Египет строит новую столицу с самым высоким зданием в мире</a><br>да и инфа свежая</div>
+| <div class="c_body">если вдруг вы как я были не в курсе, то <a target="_blank" href="https://topwar.ru/69641-mech-pobedy-triptih-monumentalnyh-sovetskih-pamyatnikov.html">Родина–мать&nbsp;— это второй монумент в триптихе</a></div>
