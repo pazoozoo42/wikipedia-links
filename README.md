@@ -1204,3 +1204,4 @@
 | <div class="c_body">wRAR, <a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA">https://ru.wikipedia.org/wiki/Новопортовский_мерзлотник</a></div>
 | <div class="c_body"><a target="_blank" href="https://en.wikipedia.org/wiki/Mummy_brown">https://en.wikipedia.org/wiki/Mummy_brown</a> это не просто цветовая метафора</div>
 | <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D1%80%D1%8C%D0%BC%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B1%D0%B5%D0%BB%D1%8B%D1%85_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B9">Тюрьма для белых медведей</a></div>
+| <div class="c_body"><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%B8%D1%80%D0%BE%D0%B7">https://ru.wikipedia.org/wiki/Аргироз</a> — а ведь яйца от серебра чернеют!</div>
